@@ -1,0 +1,4 @@
+.env
+polls
+app/app/__pycache__/*
+.vscode/*
